@@ -26,7 +26,7 @@ Slicers for interactive filtering
 
 📊 Tools Used:
 
-Microsoft Excel (or Power BI, if applicable)
+Microsoft Excel 
 
 Pivot Tables
 
